@@ -74,16 +74,6 @@ body {
   text-decoration: none;
   color: #d4d4d4;
 }
-/*
-
-.site-menu a:hover {
-  color: white;
-}
-
-.site-menu a:active {
-  color: #ccc;
-}
-*/
 
 .contacts-menu {
   display: flex;
@@ -101,16 +91,6 @@ body {
 .contacts-menu li {
   margin-left: 20px;
 }
-/*
-
-.contacts-menu a:hover {
-  opacity: 0.8;
-}
-
-.contacts-menu a:active {
-  opacity: 0.4;
-}
-*/
 
 .contacts-menu .icon {
   display: block;
@@ -194,16 +174,6 @@ body {
 .btn-yellow {
   background-color: #feca30;
 }
-/*
-
-.btn-yellow:hover {
-  background-color: white;
-}
-
-.btn-yellow:active {
-  background-color: #c1a300;
-}
-*/
 
 .btn-grey {
   width: 215px;
@@ -442,13 +412,3 @@ body {
   text-decoration: none;
   color: #888888;
 }
-/*
-
-    .footer-nav a:hover {
-      color: white;
-    }
-
-    .footer-nav a:active {
-      color: #ccc;
-    }
-*/
